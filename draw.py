@@ -1,3 +1,5 @@
+#画二维相速度图
+#draw 2D phase velocity
 import numpy as np
 from matplotlib import pyplot as plt
 def read(path):
